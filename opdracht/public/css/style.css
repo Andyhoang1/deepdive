@@ -1,0 +1,30 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.koelkast {
+    background-color: orange;
+    border-style: solid;
+    margin-bottom: 1em;
+    width: 30%;
+}
+
+.titel {
+    font-weight: bold;
+}
+
+.boven {     
+    background-color: red;
+    border-style: solid;
+    margin-bottom: 2px;
+    height: 50px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.reparatie {
+    background-color: red;
+    border-style: solid;
+    margin-bottom: 1em;
+    width: 30%;
+}
